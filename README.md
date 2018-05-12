@@ -1,5 +1,5 @@
 # Visualizing The Gender Gap in College Degrees
-### •To compare the gender gap across all degree catagories with line charts
+### •To compare the gender gap across all degree catagories with line charts.
 
 # Installation
 •Clone this repo to your computer.  
